@@ -27,7 +27,7 @@ Here are the methods to set it up for yourself.
 
 Remote deployment will require you to specify some mandatory environmental variables,
 
-- NAME: Name of the receiver.
+- NAME: Nguyễn Phương Linh 
 - PIC: Url of the pic to be loaded in the card. If don't have the image hosted somewhere, you may publish a [telegra.ph article](https://telegra.ph) with your image and copy the image address from there.
 
 To know more about the environment variables, check [References](#references).
